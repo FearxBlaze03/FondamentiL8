@@ -5,7 +5,8 @@ Benvenutə nel diario di bordo del corso di **Fondamenti di Informatica**, dove 
 ## ⚠️ Disclaimer
 
 > Ovviamente, non mi assumo responsabilità per l'accuratezza o completezza degli appunti,  
-> in quanto non sono stati revisionati o verificati professionalmente.
+> in quanto non sono stati revisionati o verificati.
+> Inoltre, alcuni esercizi potrebbero essere funzionanti, altri potrebbero non esserlo.
 
 ## 📚 Lezioni svolte
 
