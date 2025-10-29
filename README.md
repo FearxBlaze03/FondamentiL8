@@ -1,28 +1,26 @@
-# Diario di Bordo - Fondamenti di Informatica
+# 🧠 Fondamenti di Informatica – Diario di Bordo
 
-Questo repository contiene il diario di bordo relativo al corso di **Fondamenti di Informatica**, con appunti e materiale delle lezioni seguite durante l'anno accademico 2025/2026.
+Benvenutə nel diario di bordo del corso di **Fondamenti di Informatica**, dove trovi gli appunti e gli esercizi svolti.
 
----
+## 📚 Lezioni svolte
 
-## Struttura del Diario
-Ogni lezione è documentata con:
-- Data
-- Argomento trattato
-- Breve descrizione o sintesi dei concetti principali
+### 27/10/2025 - [translate:Variabili] & [translate:Input/Output]
+Abbiamo imparato a gestire le variabili in Python, come dichiararle e utilizzarle.  
+Abbiamo fatto pratica con le funzioni di [translate:input()] e [translate:print()] per leggere dati dall’utente e mostrare risultati sullo schermo.
 
----
+### 29/10/2025 - [translate:Strutture Condizionali]
+Abbiamo visto come usare gli [translate:if], [translate:elif] e [translate:else] per controllare il flusso del programma.  
+Sono stati presentati esempi per eseguire codice diverso in base a condizioni specifiche.
 
-## Lezioni
+## 🛠️ Linguaggio usato
 
-### 27/10/2025 - Variabili & Input/Output
-Abbiamo introdotto il concetto di variabile, la loro dichiarazione e assegnazione.  
-Abbiamo inoltre studiato come gestire l’input e l’output dei dati con comandi come `input()` e `print()` (in linguaggio Python), analizzando anche diversi tipi di dati e conversioni di tipo.
+- Linguaggio: Python
 
-### 29/10/2025 - Strutture Condizionali
-Abbiamo analizzato le strutture condizionali `if`, `elif` e `else`.  
-Sono stati presentati esempi pratici di controllo del flusso di esecuzione, mostrando come eseguire blocchi diversi di codice in base a condizioni logiche.
+## 🚀 Obiettivi
+
+- Passare L'Esame :)
 
 ---
 
-## Autore
-Progetto di diario di bordo creato per uso didattico da [FearxBlaze].
+🧃 Stay hydrated, stay coded.  
+🧸 Scritto con passione da [Il Tuo Nome]
