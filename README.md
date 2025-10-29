@@ -2,6 +2,11 @@
 
 Benvenutə nel diario di bordo del corso di **Fondamenti di Informatica**, dove trovi gli appunti e gli esercizi svolti.
 
+## ⚠️ Disclaimer
+
+> Ovviamente, non mi assumo responsabilità per l'accuratezza o completezza degli appunti,  
+> in quanto non sono stati revisionati o verificati professionalmente.
+
 ## 📚 Lezioni svolte
 
 ### 27/10/2025 - _Variabili & Input/Output_
@@ -12,6 +17,8 @@ Abbiamo fatto pratica con le funzioni di `input()` e `print()` per leggere dati 
 Abbiamo visto come usare gli `if`, `elif` e `else`. per controllare il flusso del programma.  
 Sono stati presentati esempi per eseguire codice diverso in base a condizioni specifiche.
 
+
+
 ## 🛠️ Linguaggio usato
 
 - Linguaggio: Python
@@ -21,6 +28,8 @@ Sono stati presentati esempi per eseguire codice diverso in base a condizioni sp
 - Passare L'Esame :)
 
 ---
+
+
 
 🧃 Stay hydrated, stay coded.  
 🧸 Scritto da [FearxBlaze]
