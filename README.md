@@ -44,4 +44,4 @@ print("🍪 Bonus: hai il permesso morale di prenderti un biscotto.")
 
 
 🧃 Stay hydrated, stay coded.  
-## 🧸 Made By [FearxBlaze]
+## 🧸 MADE BY FEARXBLAZE
