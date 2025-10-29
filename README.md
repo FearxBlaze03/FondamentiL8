@@ -25,4 +25,4 @@ Sono stati presentati esempi pratici di controllo del flusso di esecuzione, most
 ---
 
 ## Autore
-Progetto di diario di bordo creato per uso didattico da [Il Tuo Nome].
+Progetto di diario di bordo creato per uso didattico da [FearxBlaze].
