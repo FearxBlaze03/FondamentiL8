@@ -39,8 +39,7 @@ Sono stati presentati esempi per eseguire codice diverso in base a condizioni sp
 print("🕵️‍♂️ Hai trovato l’Easter Egg segreto!")
 print("👑 Se stai leggendo questo, sei ufficialmente parte dell'élite dei curiosi.")
 print("🍪 Bonus: hai il permesso morale di prenderti un biscotto.")
-
-  
+```  
 </details>
 
 
