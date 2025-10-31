@@ -18,6 +18,11 @@ Abbiamo fatto pratica con le funzioni di `input()` e `print()` per leggere dati 
 Abbiamo visto come usare gli `if`, `elif` e `else`. per controllare il flusso del programma.  
 Sono stati presentati esempi per eseguire codice diverso in base a condizioni specifiche.
 
+### 31/10/2025 - _Ciclo While & Do While_
+Abbiamo imparato come utilizzare il ciclo `while` per ripetere un blocco di istruzioni fino a quando una condizione rimane vera.
+Abbiamo anche simulato il comportamento di un do while, che esegue il blocco almeno una volta
+Sono statui presentati inoltre, esempi con contatori, somme iterative e validazione dell'input
+
 
 
 ## 🛠️ Linguaggio usato
