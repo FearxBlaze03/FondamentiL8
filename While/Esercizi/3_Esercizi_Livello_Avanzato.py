@@ -1,13 +1,13 @@
 # Chiedi all' utente di inserire un numero e usa un ciclo while per determinare se è un numero perfetto (la somma dei suoi divisori propri è
 # uguale al numero stesso). Continua finché l'utente non inserisce un numero perfetto.
 
-"""numero = int(input("Inserisci Un Numero Intero: "))
+numero = int(input("Inserisci Un Numero Intero: "))
 
 while True:
     somma_divisori = 0
     i = 1
     while i < numero:
-        if numero % 1 == 0:
+        if numero % i == 0:
             somma_divisori += i
         i += 1
     if somma_divisori == numero:
@@ -15,7 +15,7 @@ while True:
     print("Non è un numero Perfetto. Riprova.")
     numero = int(input("Inserisci Un Numero Intero: "))
 
-print(f"Hai Inserito Un Numero Perfetto: {numero}") """
+print(f"Hai Inserito Un Numero Perfetto: {numero}")
 
 # ====================================================
 
