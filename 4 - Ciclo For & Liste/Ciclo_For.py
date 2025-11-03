@@ -8,7 +8,7 @@ print(f"La Somma di Tutti i Numeri Pari da 1 a 2 è: {somma}")"""
 
 # =================================================
 
-# Stampare Tutte le Tabelline da 1 a 10
+# Stampare Tutte le Tabelline da 1 a 10 con il For
 
 """for n in range(1, 11):
     for j in range(1, 11):
