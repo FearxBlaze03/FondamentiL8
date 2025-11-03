@@ -23,7 +23,9 @@ Abbiamo imparato come utilizzare il ciclo `while` per ripetere un blocco di istr
 Abbiamo anche simulato il comportamento di un `do while`, che esegue il blocco almeno una volta
 Sono statui presentati inoltre, esempi con contatori, somme iterative e validazione dell'input
 
-
+### 03/11/2025 - _Ciclo For & Liste_
+Abbiamo visto come usare il ciclo for per iterare su sequenze e intervalli di numeri.
+Abbiamo introdotto le liste, spiegando come crearle, modificarle e scorrerne gli elementi.
 
 ## 🛠️ Linguaggio usato
 
@@ -41,6 +43,7 @@ Sono statui presentati inoltre, esempi con contatori, somme iterative e validazi
   
  ```python
 # 🕵️‍♂️ Hai trovato l’Easter Egg segreto!
+
 print("🕵️‍♂️ Hai trovato l’Easter Egg segreto!")
 print("👑 Se stai leggendo questo, sei ufficialmente parte dell'élite dei curiosi.")
 print("🍪 Bonus: hai il permesso morale di prenderti un biscotto.")
