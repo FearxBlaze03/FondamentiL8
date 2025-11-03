@@ -1,4 +1,4 @@
-# Chiedi all'utente di inserire una password. Continua a Chiedere Finchè la password inserita non coincide con quella corretta. Usa While e If per controllare la correttezza.
+# Chiedi all'utente di inserire una password. Continua a Chiedere Finchè la password inserita non coincide con quella corretta. Usa 3 - While e If per controllare la correttezza.
 
 """ password_corretta = "python123"
 
