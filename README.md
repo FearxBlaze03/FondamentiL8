@@ -23,7 +23,7 @@ Abbiamo imparato come utilizzare il ciclo `while` per ripetere un blocco di istr
 Abbiamo anche simulato il comportamento di un `do while`, che esegue il blocco almeno una volta
 Sono statui presentati inoltre, esempi con contatori, somme iterative e validazione dell'input
 
-
+### 03/11/2025 - _Ciclo For_
 
 ## 🛠️ Linguaggio usato
 
