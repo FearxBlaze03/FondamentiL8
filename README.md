@@ -27,6 +27,10 @@ Sono statui presentati inoltre, esempi con contatori, somme iterative e validazi
 Abbiamo visto come usare il ciclo for per iterare su sequenze e intervalli di numeri.
 Abbiamo introdotto le liste, spiegando come crearle, modificarle e scorrerne gli elementi.
 
+### 05/11/2025 - _Esercitazione In Aula_
+Svolta la Prima Esercitazione In Aula
+
+
 ## 🛠️ Linguaggio usato
 
 - Linguaggio: Python
