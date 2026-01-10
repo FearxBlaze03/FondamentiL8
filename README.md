@@ -8,27 +8,7 @@ Benvenutə nel diario di bordo del corso di **Fondamenti di Informatica**, dove 
 > in quanto non sono stati revisionati o verificati.
 > Inoltre, alcuni esercizi potrebbero essere funzionanti, altri potrebbero non esserlo.
 
-## 📚 Lezioni svolte
 
-### 27/10/2025 - _Variabili & Input/Output_
-Abbiamo imparato a gestire le variabili in Python, come dichiararle e utilizzarle.  
-Abbiamo fatto pratica con le funzioni di `input()` e `print()` per leggere dati dall’utente e mostrare risultati sullo schermo.
-
-### 29/10/2025 - _Strutture Condizionali_
-Abbiamo visto come usare gli `if`, `elif` e `else`. per controllare il flusso del programma.  
-Sono stati presentati esempi per eseguire codice diverso in base a condizioni specifiche.
-
-### 31/10/2025 - _Ciclo While & Do While_
-Abbiamo imparato come utilizzare il ciclo `while` per ripetere un blocco di istruzioni fino a quando una condizione rimane vera.
-Abbiamo anche simulato il comportamento di un `do while`, che esegue il blocco almeno una volta
-Sono statui presentati inoltre, esempi con contatori, somme iterative e validazione dell'input
-
-### 03/11/2025 - _Ciclo For & Liste_
-Abbiamo visto come usare il ciclo for per iterare su sequenze e intervalli di numeri.
-Abbiamo introdotto le liste, spiegando come crearle, modificarle e scorrerne gli elementi.
-
-### 05/11/2025 - _Esercitazione In Aula_
-Svolta la Prima Esercitazione In Aula
 
 
 ## 🛠️ Linguaggio usato
