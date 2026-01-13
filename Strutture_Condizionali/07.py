@@ -2,7 +2,6 @@
 # Tipo di Biglietto e Numero di Ingressi
 
 eta = int(input("Inserisci Età: "))
-
 tipo_biglietto = input("Inserisci Tipologia Biglietto (Standard, Vip o Familiare): ").lower()
 numero_ingressi = int(input("Inserisci Il Numero Di Biglietti: "))
 
